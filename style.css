@@ -22,3 +22,9 @@ a {
 section {
   margin-bottom: 30px;
 }
+
+.dragon-blushing.gif {
+  width: 40px;      
+  vertical-align: middle; 
+  margin-left: 8px; 
+}
