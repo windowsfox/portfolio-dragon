@@ -24,8 +24,8 @@ section {
 }
 
 .dragon-blushing.gif {
-  width: 28px;      
-  height: auto;
+  width: 28px; !important;
+  height: auto; !important;
   vertical-align: middle; 
   margin-left: 6px; 
 }
